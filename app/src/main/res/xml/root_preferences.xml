@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        app:key="maxHours"
+        app:title="@string/max_hours_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <EditTextPreference
+        app:key="currentHours"
+        app:title="@string/current_hours_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <ListPreference
+        app:defaultValue="0.1116"
+        app:entries="@array/rate_entries"
+        app:entryValues="@array/rate_values"
+        app:key="accrualRate"
+        app:title="@string/accrual_rate_title"
+        app:useSimpleSummaryProvider="true" />
+
+</PreferenceScreen>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PtoCalc11</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">PTO Calculator</string>
+    <string name="second_fragment_label">Use PTO Hours</string>
+    <string name="next">Take a day Off!</string>
+    <!--    <string name="previous">Previous</string>-->
+
+    <string name="fragment_main_hello">Use It or Lose It</string>
+    <string name="fragment_add_pto_hellow">Take some time off!</string>
+    <!--    Hello second fragment. Arg: %1$s-->
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="max_hours_title">Maximum Hous Available</string>
+    <string name="current_hours_title">Current Hours Accrued</string>
+    <string name="accrual_rate_title">Accrual Rate</string>
+    <string name="rate_title">Acrual Rate</string>
+    <string name="button_submit_update">Submit Update</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="previous">Previous</string>
+<!--    <string name="textview_add_time_label">Add number of days you want to take off</string>-->
+    <string name="textview_add_date_label">Add the date you want to take PTO</string>
+    <string name="kode">kode</string>
+    <string name="kategori">kategori</string>
+    <string name="isi">isi</string>
+
+</resources>

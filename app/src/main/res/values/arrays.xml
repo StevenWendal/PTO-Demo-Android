@@ -1,0 +1,27 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="rate_entries">
+        <item>less than 2 years</item>
+        <item>2 or more years</item>
+        <item>3 or more years</item>
+        <item>more than 10 years</item>
+    </string-array>
+
+    <string-array name="rate_values">
+        <item>0.0847</item>
+        <item>0.0924</item>
+        <item>0.1116</item>
+        <item>0.1308</item>
+    </string-array>
+
+</resources>
